@@ -1,5 +1,5 @@
 {
-    "name": "pxt-my-block",
+    "name": "pxt-my-blocks",
     "description": "",
     "dependencies": {
         "core": "*",
